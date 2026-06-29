@@ -1,11 +1,11 @@
 <h1 align="center">Abdul Ahad</h1>
 
 <p align="center">
-  <strong>AI/ML Engineer • Data Analyst • Full-Stack Developer</strong>
+  <strong>AI/ML Developer • Data Scientist • Python Developer</strong>
 </p>
 
 <p align="center">
-  Building AI-powered systems that transform raw data into actionable insights through machine learning, predictive analytics, and intelligent automation.
+  Building AI-powered applications, machine learning systems, and data-driven software that transform complex data into practical insights and real-world solutions.
 </p>
 
 <p align="center">
@@ -20,18 +20,18 @@
 
 ## About
 
-Computer Science student at **University of Engineering & Technology (UET), Lahore** with experience in Artificial Intelligence, Machine Learning, Data Analytics, and Full-Stack Development.
+Final-year Computer Science student at the University of Engineering & Technology (UET), Lahore, passionate about building intelligent software with Artificial Intelligence, Machine Learning, and Data Science.
 
-My work focuses on building intelligent systems that transform raw data into actionable insights through machine learning, predictive analytics, automation, and interactive visualizations.
+I develop AI-powered applications, machine learning systems, and data-driven software with experience across data preprocessing, predictive modeling, REST API development, interactive dashboards, and modern web applications.
 
 ### Core Areas
 
 * Artificial Intelligence & Machine Learning
-* Data Mining & Predictive Analytics
-* Data Analysis & Business Intelligence
-* Full-Stack Web Development
-* Dashboard & Visualization Systems
-* Python-Based Automation
+* Data Science & Predictive Analytics
+* AI Application Development
+* Intelligent Software Systems
+* Modern Web Development
+* Data Visualization & Business Intelligence
 
 ---
 
@@ -101,35 +101,34 @@ https://athleimax.com
 <img src="https://img.shields.io/badge/SQL-4479A1?logo=mysql&logoColor=white">
 </p>
 
-### AI, Machine Learning & Data Science
+### Artificial Intelligence & Machine Learning
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
+  <img src="https://img.shields.io/badge/Feature_Engineering-7C3AED?logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Predictive_Analytics-2563EB?logo=googleanalytics&logoColor=white" />
+</p>
+
+### Data Science & Analytics
 
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white" />
-  <img src="https://img.shields.io/badge/Data_Mining-4F46E5?logo=databricks&logoColor=white" />
-  <img src="https://img.shields.io/badge/Predictive_Analytics-2563EB?logo=googleanalytics&logoColor=white" />
-  <img src="https://img.shields.io/badge/Feature_Engineering-7C3AED?logo=apachespark&logoColor=white" />
   <img src="https://img.shields.io/badge/EDA-059669?logo=python&logoColor=white" />
-</p>
-
-### Data Visualization
-
-<p>
   <img src="https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/Seaborn-4C72B0?logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Recharts-FF6384?logo=react&logoColor=white" />
 </p>
 
-### Web Development
+### Application Development
 
 <p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white" />
@@ -163,11 +162,11 @@ https://athleimax.com
 
 ## Current Focus
 
-* Machine Learning Engineering
-* Data Analytics & Business Intelligence
-* Predictive Analytics Systems
-* AI-Powered Applications
-* Production-Ready Full-Stack Solutions
+* Artificial Intelligence & Machine Learning
+* AI Application Development
+* Data Science & Predictive Analytics
+* Intelligent Software Systems
+* Modern Software Engineering
 
 ---
 
@@ -176,12 +175,12 @@ https://athleimax.com
 For collaborations, internships, freelance opportunities, or project discussions:
 
 <p align="center">
-  <a href="https://linkedin.com/in/abdulahadbuilds">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-  </a>
-
   <a href="https://ahadbuilds.tech">
     <img src="https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white" />
+  </a>
+  
+  <a href="https://linkedin.com/in/abdulahadbuilds">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/ahadbuilds">
