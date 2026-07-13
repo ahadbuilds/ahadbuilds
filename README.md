@@ -145,19 +145,6 @@ https://athleimax.com
   <img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" />
 </p>
 
-
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahadbuilds&theme=tokyonight" height="170" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahadbuilds&theme=tokyo-night" />
-</p>
-
 ---
 
 ## Current Focus
