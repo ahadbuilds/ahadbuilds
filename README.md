@@ -86,7 +86,7 @@ https://github.com/ahadbuilds/Air_Pollution_Detection_System
 Commercial sportswear manufacturer website featuring responsive design, product categorization, SEO optimization, and modern user experience.
 
 Live:
-https://athleimax.com
+https://athleimax.works
 
 ---
 
