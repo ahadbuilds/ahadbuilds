@@ -20,7 +20,7 @@ Building data platforms, intelligent applications, and machine learning solution
 <a href="https://linkedin.com/in/abdulahadbuilds">
   <img src="https://img.shields.io/badge/LinkedIn-Abdul%20Ahad-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:ahad38390@gmail.com">
+<a href="mailto:ahadbuilds5@gmail.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -226,6 +226,6 @@ I am currently open to **Data Engineering, AI/ML, and Data Science internships a
 
 <br><br>
 
-📧 **ahad38390@gmail.com**
+📧 **ahadbuilds5@gmail.com**
 
 </div>
