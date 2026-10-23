@@ -123,7 +123,7 @@ A production business website featuring responsive design, product categorizatio
 
 **Tech:** HTML • CSS • JavaScript
 
-[Live Website →](https://athleimax.works)
+[Live Website →](https://athleimax.com)
 
 ---
 
