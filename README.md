@@ -241,21 +241,27 @@ A healthcare application designed to support prescription verification and tampe
 
 # Certifications & Credentials
 
-<p>
-  <img src="https://img.shields.io/badge/PROFESSIONAL_CERTIFICATION-MICROSOFT-0078D4?style=flat-square" alt="Professional certification"/>
-</p>
+<img src="https://img.shields.io/badge/PROFESSIONAL_CERTIFICATION-MICROSOFT-0078D4?style=flat-square" alt="Professional Certification"/>
 
-<a href="https://learn.microsoft.com/en-us/credentials/certifications/fabric-data-engineer-associate/">
+<br/><br/>
+
+<a href="https://learn.microsoft.com/en-us/users/ahadbuilds/credentials/f203ec24a4b6f1b0">
   <img
-    src="./assets/certifications/microsoft-dp700.png"
+    src="./certifications/DP700.png"
     width="240"
-    alt="Microsoft Certified Fabric Data Engineer Associate — DP-700"
+    alt="Microsoft Certified: Fabric Data Engineer Associate — DP-700"
   />
 </a>
 
 <br/>
 
-**Microsoft Certified: Fabric Data Engineer Associate**
+### Microsoft Certified: Fabric Data Engineer Associate
+
+<a href="https://learn.microsoft.com/en-us/users/ahadbuilds/credentials/f203ec24a4b6f1b0">
+  <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Verify Microsoft Credential"/>
+</a>
+
+<br/>
 
 `DP-700` · Microsoft · 2026
 
@@ -263,49 +269,70 @@ A healthcare application designed to support prescription verification and tampe
 
 ---
 
-### Additional Credentials
+## Additional Credentials
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-<img
-  src="./assets/certifications/google-advanced-data-analytics.png"
-  width="260"
-  alt="Google Advanced Data Analytics Certificate"
-/>
+<a href="https://www.credly.com/badges/cd3afbcd-fbc8-4f33-abb4-87fa5dcb27c6/public_url">
+  <img
+    src="./certifications/google-advanced-data-analytics.png"
+    width="240"
+    alt="Google Advanced Data Analytics Certificate"
+  />
+</a>
 
-**Google Advanced Data Analytics**
+### Google Advanced Data Analytics
 
 Google · Coursera · 2025
+
+<a href="https://www.credly.com/badges/cd3afbcd-fbc8-4f33-abb4-87fa5dcb27c6/public_url">
+  <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-4285F4?style=flat-square&logo=google&logoColor=white" alt="Verify Google Advanced Data Analytics"/>
+</a>
 
 </td>
-<td align="center" width="50%">
+<td align="center" width="50%" valign="top">
 
-<img
-  src="./assets/certifications/google-business-intelligence.png"
-  width="260"
-  alt="Google Business Intelligence Certificate"
-/>
+<a href="https://www.credly.com/badges/7d1df055-d6ab-47ab-bcd0-64c4801774cf/public_url">
+  <img
+    src="./certifications/google-business-intelligence.png"
+    width="240"
+    alt="Google Business Intelligence Certificate"
+  />
+</a>
 
-**Google Business Intelligence**
+### Google Business Intelligence
 
 Google · Coursera · 2025
+
+<a href="https://www.credly.com/badges/7d1df055-d6ab-47ab-bcd0-64c4801774cf/public_url">
+  <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-34A853?style=flat-square&logo=google&logoColor=white" alt="Verify Google Business Intelligence"/>
+</a>
 
 </td>
 </tr>
+
 <tr>
 <td align="center" colspan="2">
 
-<img
-  src="./assets/certifications/generative-ai-developer.png"
-  width="380"
-  alt="Generative AI Application Developer Certificate"
-/>
+<br/>
 
-**Generative AI Application Developer**
+<a href="https://credsverse.com/credentials/6013c7ce-ed8b-4122-a26a-7e4bd732c912">
+  <img
+    src="./certifications/generative-ai-developer.PNG"
+    width="440"
+    alt="Generative AI Application Developer Certificate — ULEFUSA and Pak Angels"
+  />
+</a>
+
+### Generative AI Application Developer
 
 ULEFUSA · Pak Angels · March 2025
+
+<a href="https://credsverse.com/credentials/6013c7ce-ed8b-4122-a26a-7e4bd732c912">
+  <img src="https://img.shields.io/badge/VERIFY_CREDENTIAL-8B5CF6?style=flat-square&logo=openai&logoColor=white" alt="Verify Generative AI Application Developer Certificate"/>
+</a>
 
 </td>
 </tr>
@@ -315,17 +342,22 @@ ULEFUSA · Pak Angels · March 2025
 
 ---
 
+---
+
 ## GitHub Activity
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ahadbuilds&show_icons=true&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=818CF8&text_color=C9D1D9&rank_icon=github&include_all_commits=true" alt="GitHub statistics"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadbuilds&layout=compact&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9&langs_count=8" alt="Most used programming languages"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=ahadbuilds&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub contribution activity"/>
+<a href="https://github.com/ahadbuilds">
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api?username=ahadbuilds&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=c9d1d9&rank_icon=github&include_all_commits=true"
+       alt="Abdul Ahad's GitHub Statistics"/>
+</a>
+<a href="https://github.com/ahadbuilds">
+  <img height="180"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahadbuilds&layout=compact&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9&langs_count=8"
+       alt="Most Used Programming Languages"/>
+</a>
 
 </div>
 
